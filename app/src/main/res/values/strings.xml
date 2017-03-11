@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shop2</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="get_high_score">get_high_score</string>
+
+    <plurals name="characters_left">
+        <item quantity="one">%d character left</item>
+        <item quantity="other">%d characters left</item>
+    </plurals>
+
+</resources>
